@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/3dApproval/static/css/main.4a4f9f1f.css",
+    "main.js": "/3dApproval/static/js/main.c0dc3a9d.js",
+    "index.html": "/3dApproval/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4a4f9f1f.css",
+    "static/js/main.c0dc3a9d.js"
+  ]
+}
