@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/wechatPayment/static/css/main.0e040131.css",
-    "main.js": "/wechatPayment/static/js/main.aaa96565.js",
+    "main.js": "/wechatPayment/static/js/main.dae53894.js",
     "index.html": "/wechatPayment/index.html"
   },
   "entrypoints": [
     "static/css/main.0e040131.css",
-    "static/js/main.aaa96565.js"
+    "static/js/main.dae53894.js"
   ]
 }
