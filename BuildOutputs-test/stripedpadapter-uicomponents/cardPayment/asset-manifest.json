@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/cardPayment/static/css/main.cc3c83ed.css",
+    "main.js": "/cardPayment/static/js/main.f2247dc7.js",
+    "index.html": "/cardPayment/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.cc3c83ed.css",
+    "static/js/main.f2247dc7.js"
+  ]
+}
