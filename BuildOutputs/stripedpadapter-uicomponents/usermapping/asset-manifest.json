@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/userMapping/static/css/main.7cec5f41.css",
+    "main.js": "/userMapping/static/js/main.9a536449.js",
+    "index.html": "/userMapping/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.7cec5f41.css",
+    "static/js/main.9a536449.js"
+  ]
+}

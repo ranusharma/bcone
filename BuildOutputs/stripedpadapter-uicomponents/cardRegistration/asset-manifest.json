@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/cardRegistration/static/css/main.29b1ca44.css",
+    "main.js": "/cardRegistration/static/js/main.1568214b.js",
+    "index.html": "/cardRegistration/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.29b1ca44.css",
+    "static/js/main.1568214b.js"
+  ]
+}

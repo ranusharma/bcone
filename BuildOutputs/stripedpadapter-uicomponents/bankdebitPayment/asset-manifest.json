@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/bankdebitPayment/static/css/main.f6986f2f.css",
+    "main.js": "/bankdebitPayment/static/js/main.f06a4421.js",
+    "index.html": "/bankdebitPayment/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f6986f2f.css",
+    "static/js/main.f06a4421.js"
+  ]
+}
